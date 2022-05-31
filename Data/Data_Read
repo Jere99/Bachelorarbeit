@@ -1,0 +1,5 @@
+Here is the main data stored in an exceil file
+The LLH, AIC and BIC of the models
+The estimates of the coefficients
+The std error of the estimated coefficients (robust)
+the acf of the residuals
