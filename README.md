@@ -1,5 +1,5 @@
 # Bachelorarbeit
-Code und Ergebnisse zu meiner Bachelorarbeit
+Code und Ergebnisse zu meiner Bachelorarbeit <br>
 Code befindet sich in den jeweiligen branches:
   Data: ein Excel File mit den wichtigsten Ergebnissen
   Code: der Code, welcher in der Arbeit verwendet wurde
